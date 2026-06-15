@@ -8,7 +8,7 @@ TravPlanner - 여행 플래너
 
 김기현
 
-<22110367@ynu.kr>
+<kap3851@yu.ac.kr>
 
 \[ Revision history \]
 
